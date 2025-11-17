@@ -15,7 +15,7 @@ A secure user authentication API built with FastAPI, SQLAlchemy, and SQLite.
 
 ### 1. Clone and Setup
 ```bash
-git clone https://github.com/YOUR-USERNAME/fastapi-secure-user.git
+git clone https://github.com/Slekhana/fastapi-secure-user.git
 cd fastapi-secure-user
 python3 -m venv venv
 source venv/bin/activate
@@ -49,7 +49,7 @@ docker run -p 8000:8000 YOUR-DOCKERHUB-USERNAME/fastapi-secure-user:latest
 
 ## Docker Hub
 
-https://hub.docker.com/r/YOUR-DOCKERHUB-USERNAME/fastapi-secure-user
+https://hub.docker.com/r/lekhanasanda/fastapi-secure-user
 
 ## Author
 
